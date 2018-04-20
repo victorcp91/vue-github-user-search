@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Start.test.js should match html structure 1`] = `
+<div>
+  <!---->
+   
+  <!---->
+</div>
+`;
